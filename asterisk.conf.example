@@ -1,0 +1,6 @@
+[directories]
+astetcdir => /home/YOUR_USER/asterisk-lab/etc
+astrundir => /home/YOUR_USER/asterisk-lab/run
+astlogdir => /home/YOUR_USER/asterisk-lab/log
+astspooldir => /home/YOUR_USER/asterisk-lab/spool
+astdbdir => /home/YOUR_USER/asterisk-lab/run

@@ -1,0 +1,9 @@
+run/
+log/
+spool/
+asterisk.conf
+etc/*
+!etc/extensions.conf
+!etc/pjsip.conf.example
+etc-backup-v1/
+cs.txt
